@@ -1,0 +1,14 @@
+C:\Users\Elisa\RiderProjects\ManagementStudenti\Tema1\bin\Debug\net9.0\Tema1.exe
+C:\Users\Elisa\RiderProjects\ManagementStudenti\Tema1\bin\Debug\net9.0\Tema1.deps.json
+C:\Users\Elisa\RiderProjects\ManagementStudenti\Tema1\bin\Debug\net9.0\Tema1.runtimeconfig.json
+C:\Users\Elisa\RiderProjects\ManagementStudenti\Tema1\bin\Debug\net9.0\Tema1.dll
+C:\Users\Elisa\RiderProjects\ManagementStudenti\Tema1\bin\Debug\net9.0\Tema1.pdb
+C:\Users\Elisa\RiderProjects\ManagementStudenti\Tema1\obj\Debug\net9.0\Tema1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Elisa\RiderProjects\ManagementStudenti\Tema1\obj\Debug\net9.0\Tema1.AssemblyInfoInputs.cache
+C:\Users\Elisa\RiderProjects\ManagementStudenti\Tema1\obj\Debug\net9.0\Tema1.AssemblyInfo.cs
+C:\Users\Elisa\RiderProjects\ManagementStudenti\Tema1\obj\Debug\net9.0\Tema1.csproj.CoreCompileInputs.cache
+C:\Users\Elisa\RiderProjects\ManagementStudenti\Tema1\obj\Debug\net9.0\Tema1.dll
+C:\Users\Elisa\RiderProjects\ManagementStudenti\Tema1\obj\Debug\net9.0\refint\Tema1.dll
+C:\Users\Elisa\RiderProjects\ManagementStudenti\Tema1\obj\Debug\net9.0\Tema1.pdb
+C:\Users\Elisa\RiderProjects\ManagementStudenti\Tema1\obj\Debug\net9.0\Tema1.genruntimeconfig.cache
+C:\Users\Elisa\RiderProjects\ManagementStudenti\Tema1\obj\Debug\net9.0\ref\Tema1.dll
