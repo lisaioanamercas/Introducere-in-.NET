@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BooksCqrsApi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5825c64121c7ef2bf80ffbce0820344a3a8a33fd")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+21d1834d431647d777c3aca9c4f7a6313e511c20")]
 [assembly: System.Reflection.AssemblyProductAttribute("BooksCqrsApi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BooksCqrsApi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
